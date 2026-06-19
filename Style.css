@@ -1,0 +1,20 @@
+body {
+    background-color: gray
+}
+h1 {
+    color: white;
+    text-align: left;
+}
+.kumar-one-outline-regular {
+  font-family: "Kumar One Outline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.par {
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 30%;
+}
