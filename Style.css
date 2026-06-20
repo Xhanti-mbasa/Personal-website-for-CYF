@@ -2,19 +2,42 @@ body {
     background-color: gray
 }
 h1 {
+    text-align: center;
     color: white;
-    text-align: left;
 }
 .kumar-one-outline-regular {
+  text-align: center;
   font-family: "Kumar One Outline", system-ui;
   font-weight: 400;
   font-style: normal;
+  padding-top: 220px;
+}
+.title {
+  display: flex;
+  color: red;
+}
+.badges {
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    width: 16%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
 }
 
 .par {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
     border-style: solid;
     border-color: white;
     border-radius: 10px;
     padding: 5px;
     width: 30%;
+}
+.cyf-logo-centred {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
