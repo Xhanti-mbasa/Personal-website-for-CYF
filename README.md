@@ -25,3 +25,7 @@ Through this project, I developed proficiency in:
 * **Requirements translation** – converting specifications into pixel-perfect implementations
 
 This project reinforced my ability to deliver pixel-perfect work within defined constraints—a critical skill in professional development environments.
+
+## Code Stack
+* **Mark Up languages**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+* **Styling Languages**: ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
