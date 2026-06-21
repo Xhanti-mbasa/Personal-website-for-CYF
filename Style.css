@@ -45,4 +45,9 @@ ul {
     width: 50%;
   margin-left: auto; /* I was going to put it to the left of p but i opted to put it here */
 }
-
+.python_badge {
+  width: 120px; /*Removed the width from the HTML tab*/
+}
+.web_dev_badge {
+  width: 120px; /*Removed the width from the HTML tab*/
+}
